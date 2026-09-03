@@ -1,0 +1,11 @@
+nome = input ("Digite seu nome :")
+idade = input ("Digite sua idade :")
+sexo = input("Digite seu sexo :")
+endereco = input("Qual seu endereço :")
+tel = int(input("Qual seu telefone :"))
+
+print (f"Seu nome é : {nome}")
+print (f"Sua idade é : {idade}")
+print (f"Seu sexo é : {sexo}")
+print (f"Seu endereço é : {endereco}")
+print (f"E seu telefone é : {tel}")

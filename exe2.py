@@ -1,0 +1,11 @@
+nome = input("Digite seu nome :")
+n1 = float(input("Digite sua nota do 1° bimestre :"))
+n2 = float(input("Digite sua nota do 2° bimestre :"))
+n3 = float(input("Digite sua nota do 3° bimestre :"))
+n4 = float(input("Digite sua nota do 4° bimestre :"))
+
+print(f"Nome : {nome}")
+print(f"Nota 1° bimestre : {n1}")
+print(f"Nota 2° bimestre : {n2}")
+print(f"Nota 3° bimestre : {n3}")
+print(f"Nota 4° bimestre : {n4}")
